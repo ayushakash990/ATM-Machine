@@ -11,6 +11,8 @@ Web-Dynamic project of creating ATM Machine having HDFC/ICICI bank as option to 
 # Project Snippets
 A window for signup by filling details about self and choosing bank to open account with
 ![alt text](https://github.com/ayushakash990/ATM-Machine/blob/main/snap/ss%20signup.png?raw=true)
+
+
 A radio button to generate 4 digit pin with random generator method
 ![alt text](https://github.com/ayushakash990/ATM-Machine/blob/main/snap/ss%20pin%20-%20Copy.png?raw=true)
 Dashboard for signin using email and password and respective bank in which user have account
